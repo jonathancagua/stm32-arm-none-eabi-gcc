@@ -54,7 +54,7 @@ void SystemInit()
 {}
 #endif
 
-void main()
+int main()
 {
 	led_setup();
 	while(1){
