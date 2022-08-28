@@ -10,7 +10,7 @@
 #define GPIOD_PUPD 				(*(volatile uint32_t *)(GPIOD_BASE + 0x0c))
 #define GPIOD_ODR  				(*(volatile uint32_t *)(GPIOD_BASE + 0x14))
 #define GPIOD_BSRR 				(*(volatile uint32_t *)(GPIOD_BASE + 0x18))
-#define LED_PIN 				(6)
+#define LED_PIN 				(5)
 
 
 void led_setup(void)
