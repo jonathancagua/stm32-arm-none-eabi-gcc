@@ -8,7 +8,7 @@ Los pasos son los siguientes:
 
 - Una vez descargado nos vamos al siguiente directorio, el cual tengo agregado la carpeta de ejemplo.
 ![plot](img/directorio.png)
--Luego toca agregar path en la MAC es similar en la consola (export PATH="$PATH:/DIRECTORIO/gcc_arm/gcc-arm-none-eabi-10-2020-q4-major/bin/")
+-Luego toca agregar path en la MAC es similar en la consola (export PATH="$PATH:/DIRECTORIO/gcc_arm/gcc-arm-none-eabi-10-2020-q4-major/bin/")<br>
 - Toca copiar del repositorio la carpeta ejemplos y ejecutar el makefile (make).
 
 ## Codigo de ejemplo
